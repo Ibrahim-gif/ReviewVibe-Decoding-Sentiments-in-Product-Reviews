@@ -1,5 +1,5 @@
 The top most similar words to good are 
-
+**
 decent :   0.7979354858398438
 great :   0.7574129700660706
 nice :   0.7210060358047485
@@ -20,6 +20,7 @@ reasonable :   0.5424194931983948
 bad :   0.5420339107513428
 lovely :   0.5410986542701721
 solid :   0.5371404886245728
+***
 --------------------------------
 The top most similar words to bad are 
 
